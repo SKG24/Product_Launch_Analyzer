@@ -175,9 +175,4 @@ python utility_scripts/quick_api_check.py
 python utility_scripts/debug.py
 ```
 
-
-## 📄 License
-
-MIT License - Feel free to use this project for learning, interviews, or commercial applications.
-
 ---
