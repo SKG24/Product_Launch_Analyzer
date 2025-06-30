@@ -1,0 +1,101 @@
+id,date,text,user,likes,retweets,sentiment,product
+1000000000000000000,2025-06-02 17:31:22,The Pixel 8 is totally worth the price.,user_2399,177,70,0.385,Pixel 8
+1000000000000000001,2025-06-25 17:31:22,Unboxing my Pixel 8 today!,user_3378,327,85,-0.274,Pixel 8
+1000000000000000002,2025-06-08 17:31:22,Not happy with the Pixel 8 battery life.,user_2253,349,86,0.417,Pixel 8
+1000000000000000003,2025-06-10 17:31:22,The Pixel 8 is totally worth the price.,user_1259,491,81,-0.621,Pixel 8
+1000000000000000004,2025-06-27 17:31:22,Best phone ever: Pixel 8,user_2715,258,45,-0.041,Pixel 8
+1000000000000000005,2025-06-02 17:31:22,Best phone ever: Pixel 8,user_5086,500,23,-0.821,Pixel 8
+1000000000000000006,2025-06-22 17:31:22,Best phone ever: Pixel 8,user_1872,169,79,-0.651,Pixel 8
+1000000000000000007,2025-06-13 17:31:22,Best phone ever: Pixel 8,user_9014,411,8,0.571,Pixel 8
+1000000000000000008,2025-06-06 17:31:22,Worst experience with Pixel 8 so far.,user_9674,54,0,-0.658,Pixel 8
+1000000000000000009,2025-06-21 17:31:22,I just bought the Pixel 8 and it's amazing!,user_1746,181,64,0.436,Pixel 8
+1000000000000000010,2025-06-04 17:31:22,Is anyone else having issues with the Pixel 8?,user_5807,368,6,-0.15,Pixel 8
+1000000000000000011,2025-05-31 17:31:22,The Pixel 8 is totally worth the price.,user_2355,405,80,0.709,Pixel 8
+1000000000000000012,2025-06-06 17:31:22,Worst experience with Pixel 8 so far.,user_3007,338,49,-0.694,Pixel 8
+1000000000000000013,2025-06-21 17:31:22,I just bought the Pixel 8 and it's amazing!,user_5838,63,34,0.098,Pixel 8
+1000000000000000014,2025-06-26 17:31:22,Not happy with the Pixel 8 battery life.,user_4777,403,100,-0.126,Pixel 8
+1000000000000000015,2025-05-31 17:31:22,Unboxing my Pixel 8 today!,user_8879,55,68,-0.932,Pixel 8
+1000000000000000016,2025-06-22 17:31:22,Unboxing my Pixel 8 today!,user_5910,272,89,-0.886,Pixel 8
+1000000000000000017,2025-06-07 17:31:22,Best phone ever: Pixel 8,user_1413,220,79,0.35,Pixel 8
+1000000000000000018,2025-06-22 17:31:22,Not happy with the Pixel 8 battery life.,user_4019,238,61,0.142,Pixel 8
+1000000000000000019,2025-06-06 17:31:22,Is anyone else having issues with the Pixel 8?,user_8328,481,16,0.288,Pixel 8
+1000000000000000020,2025-06-22 17:31:22,Worst experience with Pixel 8 so far.,user_4340,319,59,-0.861,Pixel 8
+1000000000000000021,2025-05-31 17:31:22,Not happy with the Pixel 8 battery life.,user_6435,175,32,-0.596,Pixel 8
+1000000000000000022,2025-06-09 17:31:22,I just bought the Pixel 8 and it's amazing!,user_7916,243,48,-0.618,Pixel 8
+1000000000000000023,2025-06-24 17:31:22,Unboxing my Pixel 8 today!,user_8134,294,3,-0.172,Pixel 8
+1000000000000000024,2025-06-20 17:31:22,Is anyone else having issues with the Pixel 8?,user_4262,406,67,0.996,Pixel 8
+1000000000000000025,2025-06-06 17:31:22,The Pixel 8 is totally worth the price.,user_6413,73,13,-0.966,Pixel 8
+1000000000000000026,2025-06-01 17:31:22,Best phone ever: Pixel 8,user_8691,146,88,0.697,Pixel 8
+1000000000000000027,2025-06-04 17:31:22,Best phone ever: Pixel 8,user_1888,7,60,0.407,Pixel 8
+1000000000000000028,2025-06-09 17:31:22,Best phone ever: Pixel 8,user_1424,432,95,-0.664,Pixel 8
+1000000000000000029,2025-06-09 17:31:22,The Pixel 8 is totally worth the price.,user_5074,289,64,-0.303,Pixel 8
+1000000000000000030,2025-06-02 17:31:22,Best phone ever: Pixel 8,user_7631,389,90,0.332,Pixel 8
+1000000000000000031,2025-06-15 17:31:22,Unboxing my Pixel 8 today!,user_3933,25,37,0.987,Pixel 8
+1000000000000000032,2025-06-05 17:31:22,The Pixel 8 camera quality is insane.,user_6126,486,54,-0.718,Pixel 8
+1000000000000000033,2025-06-26 17:31:22,The Pixel 8 camera quality is insane.,user_3365,379,95,0.275,Pixel 8
+1000000000000000034,2025-06-13 17:31:22,Is anyone else having issues with the Pixel 8?,user_6796,294,75,-0.726,Pixel 8
+1000000000000000035,2025-06-01 17:31:22,Thinking of switching to the Pixel 8.,user_9189,339,40,-0.611,Pixel 8
+1000000000000000036,2025-06-17 17:31:22,Best phone ever: Pixel 8,user_3176,415,20,0.665,Pixel 8
+1000000000000000037,2025-05-31 17:31:22,Unboxing my Pixel 8 today!,user_5989,482,64,0.413,Pixel 8
+1000000000000000038,2025-06-13 17:31:22,The Pixel 8 camera quality is insane.,user_7790,332,39,0.438,Pixel 8
+1000000000000000039,2025-06-28 17:31:22,Is anyone else having issues with the Pixel 8?,user_8327,194,67,-0.033,Pixel 8
+1000000000000000040,2025-06-07 17:31:22,Best phone ever: Pixel 8,user_9993,273,82,0.326,Pixel 8
+1000000000000000041,2025-06-10 17:31:22,Is anyone else having issues with the Pixel 8?,user_1153,413,7,0.466,Pixel 8
+1000000000000000042,2025-06-26 17:31:22,The Pixel 8 camera quality is insane.,user_1454,172,73,0.282,Pixel 8
+1000000000000000043,2025-06-23 17:31:22,The Pixel 8 is totally worth the price.,user_6920,486,27,-0.51,Pixel 8
+1000000000000000044,2025-06-22 17:31:22,I just bought the Pixel 8 and it's amazing!,user_4791,387,63,-0.946,Pixel 8
+1000000000000000045,2025-06-10 17:31:22,The Pixel 8 camera quality is insane.,user_9357,102,21,0.741,Pixel 8
+1000000000000000046,2025-06-13 17:31:22,Unboxing my Pixel 8 today!,user_4504,319,30,0.031,Pixel 8
+1000000000000000047,2025-06-24 17:31:22,Best phone ever: Pixel 8,user_3837,369,71,0.087,Pixel 8
+1000000000000000048,2025-06-24 17:31:22,Absolutely loving my new Pixel 8!,user_2867,146,93,0.976,Pixel 8
+1000000000000000049,2025-06-16 17:31:22,The Pixel 8 is totally worth the price.,user_7637,483,23,0.598,Pixel 8
+1000000000000000050,2025-06-21 17:31:22,Best phone ever: Pixel 8,user_5577,238,75,-0.593,Pixel 8
+1000000000000000051,2025-06-17 17:31:22,Worst experience with Pixel 8 so far.,user_6213,338,43,0.906,Pixel 8
+1000000000000000052,2025-06-09 17:31:22,Thinking of switching to the Pixel 8.,user_1956,448,26,0.419,Pixel 8
+1000000000000000053,2025-06-28 17:31:22,Best phone ever: Pixel 8,user_8868,357,82,0.35,Pixel 8
+1000000000000000054,2025-06-04 17:31:22,Not happy with the Pixel 8 battery life.,user_4090,248,46,-0.327,Pixel 8
+1000000000000000055,2025-06-03 17:31:22,Worst experience with Pixel 8 so far.,user_9121,374,54,0.288,Pixel 8
+1000000000000000056,2025-06-16 17:31:22,Worst experience with Pixel 8 so far.,user_5998,28,7,-0.076,Pixel 8
+1000000000000000057,2025-06-14 17:31:22,I just bought the Pixel 8 and it's amazing!,user_8837,126,8,-0.538,Pixel 8
+1000000000000000058,2025-06-04 17:31:22,Unboxing my Pixel 8 today!,user_8163,10,19,-0.93,Pixel 8
+1000000000000000059,2025-06-05 17:31:22,I just bought the Pixel 8 and it's amazing!,user_3300,242,23,0.532,Pixel 8
+1000000000000000060,2025-06-13 17:31:22,Unboxing my Pixel 8 today!,user_4815,31,46,0.011,Pixel 8
+1000000000000000061,2025-06-24 17:31:22,Worst experience with Pixel 8 so far.,user_7198,140,4,-0.504,Pixel 8
+1000000000000000062,2025-06-28 17:31:22,Not happy with the Pixel 8 battery life.,user_7264,178,85,-0.575,Pixel 8
+1000000000000000063,2025-06-28 17:31:22,Not happy with the Pixel 8 battery life.,user_2560,438,13,0.967,Pixel 8
+1000000000000000064,2025-06-26 17:31:22,Unboxing my Pixel 8 today!,user_9453,66,16,-0.91,Pixel 8
+1000000000000000065,2025-06-17 17:31:22,Not happy with the Pixel 8 battery life.,user_1318,137,85,0.628,Pixel 8
+1000000000000000066,2025-06-15 17:31:22,Worst experience with Pixel 8 so far.,user_5045,154,73,0.554,Pixel 8
+1000000000000000067,2025-06-17 17:31:22,Absolutely loving my new Pixel 8!,user_4980,369,57,-0.592,Pixel 8
+1000000000000000068,2025-06-27 17:31:22,The Pixel 8 is totally worth the price.,user_4057,144,46,0.776,Pixel 8
+1000000000000000069,2025-06-15 17:31:22,Is anyone else having issues with the Pixel 8?,user_1806,362,28,-0.674,Pixel 8
+1000000000000000070,2025-06-22 17:31:22,Is anyone else having issues with the Pixel 8?,user_9707,146,34,0.281,Pixel 8
+1000000000000000071,2025-06-22 17:31:22,Unboxing my Pixel 8 today!,user_6795,132,47,-0.338,Pixel 8
+1000000000000000072,2025-06-19 17:31:22,Is anyone else having issues with the Pixel 8?,user_7745,334,81,-0.019,Pixel 8
+1000000000000000073,2025-06-15 17:31:22,I just bought the Pixel 8 and it's amazing!,user_3804,483,59,-0.564,Pixel 8
+1000000000000000074,2025-06-23 17:31:22,Is anyone else having issues with the Pixel 8?,user_6429,220,78,-0.992,Pixel 8
+1000000000000000075,2025-06-10 17:31:22,Not happy with the Pixel 8 battery life.,user_5558,469,66,-0.7,Pixel 8
+1000000000000000076,2025-06-18 17:31:22,The Pixel 8 camera quality is insane.,user_7002,283,34,0.06,Pixel 8
+1000000000000000077,2025-06-14 17:31:22,Is anyone else having issues with the Pixel 8?,user_8277,79,19,0.394,Pixel 8
+1000000000000000078,2025-06-18 17:31:22,Unboxing my Pixel 8 today!,user_7907,437,65,-0.686,Pixel 8
+1000000000000000079,2025-06-18 17:31:22,Unboxing my Pixel 8 today!,user_8258,301,87,0.021,Pixel 8
+1000000000000000080,2025-06-22 17:31:22,I just bought the Pixel 8 and it's amazing!,user_6878,1,66,-0.432,Pixel 8
+1000000000000000081,2025-06-17 17:31:22,The Pixel 8 is totally worth the price.,user_2739,493,5,-0.665,Pixel 8
+1000000000000000082,2025-06-20 17:31:22,Worst experience with Pixel 8 so far.,user_6750,286,19,-0.352,Pixel 8
+1000000000000000083,2025-06-10 17:31:22,Unboxing my Pixel 8 today!,user_8696,391,87,0.437,Pixel 8
+1000000000000000084,2025-06-12 17:31:22,Not happy with the Pixel 8 battery life.,user_7686,17,43,-0.212,Pixel 8
+1000000000000000085,2025-06-05 17:31:22,The Pixel 8 is totally worth the price.,user_6921,112,100,-0.58,Pixel 8
+1000000000000000086,2025-06-26 17:31:22,Thinking of switching to the Pixel 8.,user_3987,482,34,0.28,Pixel 8
+1000000000000000087,2025-06-11 17:31:22,Worst experience with Pixel 8 so far.,user_9796,109,98,0.403,Pixel 8
+1000000000000000088,2025-06-17 17:31:22,Is anyone else having issues with the Pixel 8?,user_1170,120,11,0.698,Pixel 8
+1000000000000000089,2025-06-07 17:31:22,The Pixel 8 is totally worth the price.,user_8191,185,80,0.498,Pixel 8
+1000000000000000090,2025-06-10 17:31:22,The Pixel 8 is totally worth the price.,user_5912,437,48,0.069,Pixel 8
+1000000000000000091,2025-06-09 17:31:22,Thinking of switching to the Pixel 8.,user_4507,130,55,0.802,Pixel 8
+1000000000000000092,2025-06-01 17:31:22,Worst experience with Pixel 8 so far.,user_8647,248,22,-0.822,Pixel 8
+1000000000000000093,2025-06-25 17:31:22,Unboxing my Pixel 8 today!,user_7809,371,22,-0.23,Pixel 8
+1000000000000000094,2025-06-08 17:31:22,The Pixel 8 is totally worth the price.,user_5772,207,99,-0.349,Pixel 8
+1000000000000000095,2025-06-23 17:31:22,I just bought the Pixel 8 and it's amazing!,user_2655,290,13,0.575,Pixel 8
+1000000000000000096,2025-06-08 17:31:22,The Pixel 8 camera quality is insane.,user_4728,196,5,-0.374,Pixel 8
+1000000000000000097,2025-06-22 17:31:22,Thinking of switching to the Pixel 8.,user_2098,298,1,-0.054,Pixel 8
+1000000000000000098,2025-06-07 17:31:22,Best phone ever: Pixel 8,user_1754,49,19,0.394,Pixel 8
+1000000000000000099,2025-06-08 17:31:22,Absolutely loving my new Pixel 8!,user_2878,30,34,-0.374,Pixel 8

@@ -1,0 +1,101 @@
+id,date,text,user,likes,retweets,sentiment,product
+1000000000000000000,2025-06-16 17:31:22,Best phone ever: Nothing Phone,user_4606,123,67,-0.117,Nothing Phone
+1000000000000000001,2025-06-03 17:31:22,Worst experience with Nothing Phone so far.,user_9551,66,23,-0.498,Nothing Phone
+1000000000000000002,2025-06-25 17:31:22,Not happy with the Nothing Phone battery life.,user_5591,95,65,0.408,Nothing Phone
+1000000000000000003,2025-06-12 17:31:22,Best phone ever: Nothing Phone,user_8425,33,46,-0.637,Nothing Phone
+1000000000000000004,2025-06-08 17:31:22,The Nothing Phone camera quality is insane.,user_7862,94,85,-0.662,Nothing Phone
+1000000000000000005,2025-06-24 17:31:22,Thinking of switching to the Nothing Phone.,user_7702,164,56,-0.006,Nothing Phone
+1000000000000000006,2025-06-13 17:31:22,Is anyone else having issues with the Nothing Phone?,user_6883,290,71,0.624,Nothing Phone
+1000000000000000007,2025-06-13 17:31:22,Is anyone else having issues with the Nothing Phone?,user_7013,172,74,0.769,Nothing Phone
+1000000000000000008,2025-06-09 17:31:22,I just bought the Nothing Phone and it's amazing!,user_8268,242,94,-0.29,Nothing Phone
+1000000000000000009,2025-06-22 17:31:22,Not happy with the Nothing Phone battery life.,user_1918,307,58,-0.359,Nothing Phone
+1000000000000000010,2025-06-21 17:31:22,Not happy with the Nothing Phone battery life.,user_7403,365,23,0.38,Nothing Phone
+1000000000000000011,2025-06-03 17:31:22,Unboxing my Nothing Phone today!,user_8793,412,57,0.681,Nothing Phone
+1000000000000000012,2025-06-13 17:31:22,The Nothing Phone camera quality is insane.,user_4684,39,29,0.225,Nothing Phone
+1000000000000000013,2025-06-28 17:31:22,Unboxing my Nothing Phone today!,user_1229,239,6,-0.997,Nothing Phone
+1000000000000000014,2025-06-17 17:31:22,Is anyone else having issues with the Nothing Phone?,user_4285,453,19,-0.799,Nothing Phone
+1000000000000000015,2025-06-11 17:31:22,Best phone ever: Nothing Phone,user_5254,231,24,-0.421,Nothing Phone
+1000000000000000016,2025-06-07 17:31:22,Is anyone else having issues with the Nothing Phone?,user_5429,41,57,-0.595,Nothing Phone
+1000000000000000017,2025-06-25 17:31:22,Thinking of switching to the Nothing Phone.,user_4850,392,65,0.733,Nothing Phone
+1000000000000000018,2025-06-27 17:31:22,The Nothing Phone is totally worth the price.,user_8385,69,71,-0.687,Nothing Phone
+1000000000000000019,2025-06-10 17:31:22,Absolutely loving my new Nothing Phone!,user_1901,191,36,0.971,Nothing Phone
+1000000000000000020,2025-06-07 17:31:22,Unboxing my Nothing Phone today!,user_6031,404,15,-0.151,Nothing Phone
+1000000000000000021,2025-06-12 17:31:22,Unboxing my Nothing Phone today!,user_4028,355,15,-0.253,Nothing Phone
+1000000000000000022,2025-06-15 17:31:22,Best phone ever: Nothing Phone,user_3666,43,33,-0.19,Nothing Phone
+1000000000000000023,2025-06-26 17:31:22,Absolutely loving my new Nothing Phone!,user_6128,51,54,-0.049,Nothing Phone
+1000000000000000024,2025-06-24 17:31:22,Not happy with the Nothing Phone battery life.,user_2190,274,65,0.495,Nothing Phone
+1000000000000000025,2025-06-23 17:31:22,Thinking of switching to the Nothing Phone.,user_8073,396,45,0.933,Nothing Phone
+1000000000000000026,2025-06-07 17:31:22,Is anyone else having issues with the Nothing Phone?,user_2030,262,78,0.424,Nothing Phone
+1000000000000000027,2025-06-15 17:31:22,Worst experience with Nothing Phone so far.,user_4701,391,52,0.693,Nothing Phone
+1000000000000000028,2025-06-12 17:31:22,Best phone ever: Nothing Phone,user_1645,232,8,-0.711,Nothing Phone
+1000000000000000029,2025-06-24 17:31:22,The Nothing Phone is totally worth the price.,user_6357,359,17,0.119,Nothing Phone
+1000000000000000030,2025-06-25 17:31:22,Is anyone else having issues with the Nothing Phone?,user_6918,286,3,0.318,Nothing Phone
+1000000000000000031,2025-06-25 17:31:22,The Nothing Phone camera quality is insane.,user_8187,68,40,-0.059,Nothing Phone
+1000000000000000032,2025-06-29 17:31:22,The Nothing Phone is totally worth the price.,user_9023,201,79,0.719,Nothing Phone
+1000000000000000033,2025-06-01 17:31:22,Absolutely loving my new Nothing Phone!,user_2959,352,34,-0.277,Nothing Phone
+1000000000000000034,2025-06-17 17:31:22,Thinking of switching to the Nothing Phone.,user_6276,489,52,0.438,Nothing Phone
+1000000000000000035,2025-06-30 17:31:22,Absolutely loving my new Nothing Phone!,user_6430,88,100,0.6,Nothing Phone
+1000000000000000036,2025-05-31 17:31:22,The Nothing Phone is totally worth the price.,user_5890,3,31,-0.845,Nothing Phone
+1000000000000000037,2025-06-01 17:31:22,I just bought the Nothing Phone and it's amazing!,user_6404,184,81,0.678,Nothing Phone
+1000000000000000038,2025-06-28 17:31:22,The Nothing Phone camera quality is insane.,user_4797,423,90,0.952,Nothing Phone
+1000000000000000039,2025-06-22 17:31:22,Worst experience with Nothing Phone so far.,user_1202,472,37,0.66,Nothing Phone
+1000000000000000040,2025-06-04 17:31:22,I just bought the Nothing Phone and it's amazing!,user_9455,206,8,0.013,Nothing Phone
+1000000000000000041,2025-06-19 17:31:22,Is anyone else having issues with the Nothing Phone?,user_1660,203,81,0.599,Nothing Phone
+1000000000000000042,2025-06-17 17:31:22,Worst experience with Nothing Phone so far.,user_1089,103,7,-0.164,Nothing Phone
+1000000000000000043,2025-06-13 17:31:22,The Nothing Phone is totally worth the price.,user_5397,48,51,0.979,Nothing Phone
+1000000000000000044,2025-06-26 17:31:22,The Nothing Phone is totally worth the price.,user_5715,425,50,-0.809,Nothing Phone
+1000000000000000045,2025-06-24 17:31:22,Not happy with the Nothing Phone battery life.,user_9874,480,100,0.494,Nothing Phone
+1000000000000000046,2025-06-18 17:31:22,Is anyone else having issues with the Nothing Phone?,user_7148,117,38,0.435,Nothing Phone
+1000000000000000047,2025-06-10 17:31:22,Thinking of switching to the Nothing Phone.,user_1143,255,4,-0.464,Nothing Phone
+1000000000000000048,2025-06-04 17:31:22,Worst experience with Nothing Phone so far.,user_6330,166,45,-0.305,Nothing Phone
+1000000000000000049,2025-06-20 17:31:22,Is anyone else having issues with the Nothing Phone?,user_3219,409,92,0.224,Nothing Phone
+1000000000000000050,2025-06-05 17:31:22,The Nothing Phone camera quality is insane.,user_7416,152,85,-0.028,Nothing Phone
+1000000000000000051,2025-06-26 17:31:22,Unboxing my Nothing Phone today!,user_8998,103,45,-0.726,Nothing Phone
+1000000000000000052,2025-06-28 17:31:22,Not happy with the Nothing Phone battery life.,user_4901,314,96,0.428,Nothing Phone
+1000000000000000053,2025-06-17 17:31:22,Thinking of switching to the Nothing Phone.,user_6051,420,1,0.529,Nothing Phone
+1000000000000000054,2025-06-23 17:31:22,The Nothing Phone is totally worth the price.,user_9097,158,91,0.477,Nothing Phone
+1000000000000000055,2025-06-27 17:31:22,Not happy with the Nothing Phone battery life.,user_7976,498,74,0.567,Nothing Phone
+1000000000000000056,2025-06-10 17:31:22,Worst experience with Nothing Phone so far.,user_8567,454,93,-0.645,Nothing Phone
+1000000000000000057,2025-06-16 17:31:22,Not happy with the Nothing Phone battery life.,user_2556,259,27,0.258,Nothing Phone
+1000000000000000058,2025-06-26 17:31:22,Absolutely loving my new Nothing Phone!,user_1322,130,100,0.09,Nothing Phone
+1000000000000000059,2025-06-24 17:31:22,Is anyone else having issues with the Nothing Phone?,user_9626,271,31,-0.286,Nothing Phone
+1000000000000000060,2025-06-11 17:31:22,Worst experience with Nothing Phone so far.,user_3281,173,75,-0.098,Nothing Phone
+1000000000000000061,2025-06-24 17:31:22,Not happy with the Nothing Phone battery life.,user_7575,404,89,-0.808,Nothing Phone
+1000000000000000062,2025-06-08 17:31:22,Thinking of switching to the Nothing Phone.,user_4514,341,13,-0.648,Nothing Phone
+1000000000000000063,2025-06-04 17:31:22,Unboxing my Nothing Phone today!,user_3205,65,11,0.891,Nothing Phone
+1000000000000000064,2025-06-19 17:31:22,Worst experience with Nothing Phone so far.,user_2066,66,68,0.816,Nothing Phone
+1000000000000000065,2025-06-09 17:31:22,Not happy with the Nothing Phone battery life.,user_7629,379,53,-0.888,Nothing Phone
+1000000000000000066,2025-06-13 17:31:22,Best phone ever: Nothing Phone,user_3760,361,81,-0.871,Nothing Phone
+1000000000000000067,2025-06-26 17:31:22,Not happy with the Nothing Phone battery life.,user_5909,356,48,-0.027,Nothing Phone
+1000000000000000068,2025-06-03 17:31:22,Unboxing my Nothing Phone today!,user_9373,8,70,-0.855,Nothing Phone
+1000000000000000069,2025-06-08 17:31:22,Not happy with the Nothing Phone battery life.,user_3214,375,90,0.776,Nothing Phone
+1000000000000000070,2025-06-20 17:31:22,I just bought the Nothing Phone and it's amazing!,user_8295,51,26,-0.619,Nothing Phone
+1000000000000000071,2025-06-29 17:31:22,Is anyone else having issues with the Nothing Phone?,user_2498,226,14,0.055,Nothing Phone
+1000000000000000072,2025-06-24 17:31:22,The Nothing Phone camera quality is insane.,user_3535,497,66,0.49,Nothing Phone
+1000000000000000073,2025-06-18 17:31:22,Unboxing my Nothing Phone today!,user_4957,219,73,0.134,Nothing Phone
+1000000000000000074,2025-06-24 17:31:22,Absolutely loving my new Nothing Phone!,user_2357,177,75,0.327,Nothing Phone
+1000000000000000075,2025-06-20 17:31:22,Absolutely loving my new Nothing Phone!,user_4279,19,4,-0.829,Nothing Phone
+1000000000000000076,2025-06-04 17:31:22,Absolutely loving my new Nothing Phone!,user_7106,181,82,-0.303,Nothing Phone
+1000000000000000077,2025-06-22 17:31:22,Unboxing my Nothing Phone today!,user_3317,414,50,-0.736,Nothing Phone
+1000000000000000078,2025-06-22 17:31:22,Is anyone else having issues with the Nothing Phone?,user_3986,40,49,0.101,Nothing Phone
+1000000000000000079,2025-06-03 17:31:22,Unboxing my Nothing Phone today!,user_7972,245,51,0.202,Nothing Phone
+1000000000000000080,2025-06-12 17:31:22,Unboxing my Nothing Phone today!,user_9405,77,6,-0.555,Nothing Phone
+1000000000000000081,2025-06-24 17:31:22,Absolutely loving my new Nothing Phone!,user_8989,42,51,0.163,Nothing Phone
+1000000000000000082,2025-06-23 17:31:22,Not happy with the Nothing Phone battery life.,user_8265,437,27,0.318,Nothing Phone
+1000000000000000083,2025-06-02 17:31:22,Absolutely loving my new Nothing Phone!,user_7756,67,93,-0.714,Nothing Phone
+1000000000000000084,2025-06-12 17:31:22,Unboxing my Nothing Phone today!,user_1059,206,57,-0.857,Nothing Phone
+1000000000000000085,2025-06-19 17:31:22,Worst experience with Nothing Phone so far.,user_2036,174,30,-0.266,Nothing Phone
+1000000000000000086,2025-06-21 17:31:22,Best phone ever: Nothing Phone,user_6009,453,93,-0.706,Nothing Phone
+1000000000000000087,2025-06-25 17:31:22,Not happy with the Nothing Phone battery life.,user_3621,15,69,-0.377,Nothing Phone
+1000000000000000088,2025-06-26 17:31:22,Thinking of switching to the Nothing Phone.,user_1240,64,54,-0.321,Nothing Phone
+1000000000000000089,2025-06-29 17:31:22,Absolutely loving my new Nothing Phone!,user_1299,180,42,-0.088,Nothing Phone
+1000000000000000090,2025-06-03 17:31:22,The Nothing Phone camera quality is insane.,user_2396,489,35,-0.39,Nothing Phone
+1000000000000000091,2025-06-27 17:31:22,Thinking of switching to the Nothing Phone.,user_4785,38,16,-0.436,Nothing Phone
+1000000000000000092,2025-06-14 17:31:22,I just bought the Nothing Phone and it's amazing!,user_4763,226,36,-0.078,Nothing Phone
+1000000000000000093,2025-06-07 17:31:22,Best phone ever: Nothing Phone,user_4567,30,16,0.123,Nothing Phone
+1000000000000000094,2025-05-31 17:31:22,Absolutely loving my new Nothing Phone!,user_6037,415,5,-0.145,Nothing Phone
+1000000000000000095,2025-06-27 17:31:22,Not happy with the Nothing Phone battery life.,user_1125,416,74,0.93,Nothing Phone
+1000000000000000096,2025-06-21 17:31:22,I just bought the Nothing Phone and it's amazing!,user_3543,81,25,-0.062,Nothing Phone
+1000000000000000097,2025-06-20 17:31:22,Not happy with the Nothing Phone battery life.,user_1165,282,70,-0.731,Nothing Phone
+1000000000000000098,2025-06-29 17:31:22,Worst experience with Nothing Phone so far.,user_3469,150,40,0.262,Nothing Phone
+1000000000000000099,2025-06-11 17:31:22,Best phone ever: Nothing Phone,user_7545,48,24,-0.102,Nothing Phone

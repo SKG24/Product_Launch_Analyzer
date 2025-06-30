@@ -1,0 +1,14 @@
+tweepy
+streamlit
+plotly
+pytest
+nltk
+transformers
+torch
+textblob
+python-dotenv
+pandas
+wordcloud
+vaderSentiment
+tweepy>=4.0
+python-dotenv

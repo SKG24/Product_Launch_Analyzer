@@ -1,0 +1,101 @@
+id,date,text,user,likes,retweets,sentiment,product
+1000000000000000000,2025-06-07 17:31:22,The iPhone 15 is totally worth the price.,user_6137,342,43,0.343,iPhone 15
+1000000000000000001,2025-06-26 17:31:22,Not happy with the iPhone 15 battery life.,user_6722,487,31,0.166,iPhone 15
+1000000000000000002,2025-06-20 17:31:22,The iPhone 15 is totally worth the price.,user_4220,351,73,0.899,iPhone 15
+1000000000000000003,2025-06-28 17:31:22,Worst experience with iPhone 15 so far.,user_9796,50,92,-0.415,iPhone 15
+1000000000000000004,2025-06-15 17:31:22,Unboxing my iPhone 15 today!,user_9856,495,34,-0.99,iPhone 15
+1000000000000000005,2025-06-04 17:31:22,Not happy with the iPhone 15 battery life.,user_8494,403,16,0.879,iPhone 15
+1000000000000000006,2025-06-03 17:31:22,Not happy with the iPhone 15 battery life.,user_2379,170,16,0.201,iPhone 15
+1000000000000000007,2025-06-23 17:31:22,Not happy with the iPhone 15 battery life.,user_3903,183,64,-0.586,iPhone 15
+1000000000000000008,2025-06-04 17:31:22,Is anyone else having issues with the iPhone 15?,user_8554,127,27,0.865,iPhone 15
+1000000000000000009,2025-06-12 17:31:22,I just bought the iPhone 15 and it's amazing!,user_8288,422,56,-0.511,iPhone 15
+1000000000000000010,2025-06-05 17:31:22,Worst experience with iPhone 15 so far.,user_1561,379,20,-0.865,iPhone 15
+1000000000000000011,2025-06-28 17:31:22,Not happy with the iPhone 15 battery life.,user_6725,107,96,-0.795,iPhone 15
+1000000000000000012,2025-06-30 17:31:22,The iPhone 15 is totally worth the price.,user_2213,401,97,0.046,iPhone 15
+1000000000000000013,2025-06-03 17:31:22,Best phone ever: iPhone 15,user_1128,475,4,0.81,iPhone 15
+1000000000000000014,2025-06-26 17:31:22,I just bought the iPhone 15 and it's amazing!,user_4348,9,89,-0.774,iPhone 15
+1000000000000000015,2025-06-22 17:31:22,Absolutely loving my new iPhone 15!,user_7546,40,45,0.004,iPhone 15
+1000000000000000016,2025-06-14 17:31:22,Is anyone else having issues with the iPhone 15?,user_3668,352,22,-0.8,iPhone 15
+1000000000000000017,2025-06-15 17:31:22,Unboxing my iPhone 15 today!,user_1704,427,94,-0.969,iPhone 15
+1000000000000000018,2025-05-31 17:31:22,Is anyone else having issues with the iPhone 15?,user_1908,419,22,0.963,iPhone 15
+1000000000000000019,2025-06-06 17:31:22,I just bought the iPhone 15 and it's amazing!,user_6158,207,92,-0.176,iPhone 15
+1000000000000000020,2025-06-01 17:31:22,Not happy with the iPhone 15 battery life.,user_9890,345,57,-0.473,iPhone 15
+1000000000000000021,2025-06-20 17:31:22,The iPhone 15 camera quality is insane.,user_9948,84,67,0.274,iPhone 15
+1000000000000000022,2025-06-19 17:31:22,I just bought the iPhone 15 and it's amazing!,user_1186,128,23,0.4,iPhone 15
+1000000000000000023,2025-06-17 17:31:22,Is anyone else having issues with the iPhone 15?,user_9574,420,54,-0.6,iPhone 15
+1000000000000000024,2025-06-25 17:31:22,Best phone ever: iPhone 15,user_5945,125,6,-0.191,iPhone 15
+1000000000000000025,2025-06-05 17:31:22,Not happy with the iPhone 15 battery life.,user_4227,92,96,-0.838,iPhone 15
+1000000000000000026,2025-06-28 17:31:22,Thinking of switching to the iPhone 15.,user_4596,3,26,0.708,iPhone 15
+1000000000000000027,2025-06-16 17:31:22,Thinking of switching to the iPhone 15.,user_2071,382,78,-0.214,iPhone 15
+1000000000000000028,2025-06-08 17:31:22,Best phone ever: iPhone 15,user_8818,150,14,0.679,iPhone 15
+1000000000000000029,2025-06-10 17:31:22,The iPhone 15 camera quality is insane.,user_3606,221,1,-0.186,iPhone 15
+1000000000000000030,2025-05-31 17:31:22,The iPhone 15 is totally worth the price.,user_5258,95,6,0.971,iPhone 15
+1000000000000000031,2025-06-16 17:31:22,Absolutely loving my new iPhone 15!,user_3765,349,48,0.646,iPhone 15
+1000000000000000032,2025-06-08 17:31:22,I just bought the iPhone 15 and it's amazing!,user_3038,150,43,0.349,iPhone 15
+1000000000000000033,2025-06-12 17:31:22,Worst experience with iPhone 15 so far.,user_1533,108,6,-0.632,iPhone 15
+1000000000000000034,2025-06-04 17:31:22,Unboxing my iPhone 15 today!,user_8935,59,97,0.728,iPhone 15
+1000000000000000035,2025-06-25 17:31:22,I just bought the iPhone 15 and it's amazing!,user_8677,176,91,0.284,iPhone 15
+1000000000000000036,2025-06-03 17:31:22,Best phone ever: iPhone 15,user_4200,110,28,0.149,iPhone 15
+1000000000000000037,2025-06-25 17:31:22,Best phone ever: iPhone 15,user_1513,253,44,-0.489,iPhone 15
+1000000000000000038,2025-06-08 17:31:22,Not happy with the iPhone 15 battery life.,user_6084,447,7,-0.999,iPhone 15
+1000000000000000039,2025-06-01 17:31:22,Thinking of switching to the iPhone 15.,user_4475,434,50,-0.67,iPhone 15
+1000000000000000040,2025-06-26 17:31:22,Is anyone else having issues with the iPhone 15?,user_9923,93,96,0.636,iPhone 15
+1000000000000000041,2025-06-15 17:31:22,Thinking of switching to the iPhone 15.,user_9633,195,39,-0.876,iPhone 15
+1000000000000000042,2025-06-28 17:31:22,The iPhone 15 is totally worth the price.,user_6782,278,24,0.508,iPhone 15
+1000000000000000043,2025-06-04 17:31:22,Is anyone else having issues with the iPhone 15?,user_9252,346,22,0.021,iPhone 15
+1000000000000000044,2025-06-01 17:31:22,Is anyone else having issues with the iPhone 15?,user_5864,9,26,0.507,iPhone 15
+1000000000000000045,2025-06-14 17:31:22,Unboxing my iPhone 15 today!,user_5233,97,44,-0.418,iPhone 15
+1000000000000000046,2025-06-26 17:31:22,I just bought the iPhone 15 and it's amazing!,user_6766,103,77,0.776,iPhone 15
+1000000000000000047,2025-06-16 17:31:22,Unboxing my iPhone 15 today!,user_6013,63,71,0.76,iPhone 15
+1000000000000000048,2025-06-18 17:31:22,Unboxing my iPhone 15 today!,user_4830,145,19,-0.105,iPhone 15
+1000000000000000049,2025-06-30 17:31:22,Absolutely loving my new iPhone 15!,user_9032,44,74,-0.33,iPhone 15
+1000000000000000050,2025-06-06 17:31:22,Thinking of switching to the iPhone 15.,user_6567,204,20,0.993,iPhone 15
+1000000000000000051,2025-06-27 17:31:22,The iPhone 15 is totally worth the price.,user_4170,145,59,-0.412,iPhone 15
+1000000000000000052,2025-06-09 17:31:22,Is anyone else having issues with the iPhone 15?,user_8747,224,52,0.351,iPhone 15
+1000000000000000053,2025-06-06 17:31:22,I just bought the iPhone 15 and it's amazing!,user_2344,27,43,-0.029,iPhone 15
+1000000000000000054,2025-06-11 17:31:22,Worst experience with iPhone 15 so far.,user_6994,140,54,-0.403,iPhone 15
+1000000000000000055,2025-06-07 17:31:22,Best phone ever: iPhone 15,user_6631,41,36,-0.649,iPhone 15
+1000000000000000056,2025-06-12 17:31:22,Not happy with the iPhone 15 battery life.,user_3259,28,23,0.222,iPhone 15
+1000000000000000057,2025-06-08 17:31:22,Thinking of switching to the iPhone 15.,user_4504,323,11,0.611,iPhone 15
+1000000000000000058,2025-06-28 17:31:22,Worst experience with iPhone 15 so far.,user_2789,489,98,0.203,iPhone 15
+1000000000000000059,2025-06-11 17:31:22,Not happy with the iPhone 15 battery life.,user_4829,37,35,-0.112,iPhone 15
+1000000000000000060,2025-06-07 17:31:22,Unboxing my iPhone 15 today!,user_8673,183,17,-0.843,iPhone 15
+1000000000000000061,2025-06-05 17:31:22,I just bought the iPhone 15 and it's amazing!,user_2113,34,0,-0.099,iPhone 15
+1000000000000000062,2025-06-27 17:31:22,Best phone ever: iPhone 15,user_9399,265,42,0.101,iPhone 15
+1000000000000000063,2025-06-15 17:31:22,Is anyone else having issues with the iPhone 15?,user_6527,266,38,-0.175,iPhone 15
+1000000000000000064,2025-06-05 17:31:22,The iPhone 15 camera quality is insane.,user_5684,285,87,-0.035,iPhone 15
+1000000000000000065,2025-06-22 17:31:22,I just bought the iPhone 15 and it's amazing!,user_1005,447,46,0.126,iPhone 15
+1000000000000000066,2025-06-27 17:31:22,Is anyone else having issues with the iPhone 15?,user_9557,222,53,0.818,iPhone 15
+1000000000000000067,2025-06-19 17:31:22,I just bought the iPhone 15 and it's amazing!,user_9729,157,100,-0.505,iPhone 15
+1000000000000000068,2025-06-10 17:31:22,Unboxing my iPhone 15 today!,user_7812,215,56,0.322,iPhone 15
+1000000000000000069,2025-06-07 17:31:22,Not happy with the iPhone 15 battery life.,user_7066,382,48,-0.993,iPhone 15
+1000000000000000070,2025-06-14 17:31:22,Is anyone else having issues with the iPhone 15?,user_4359,199,61,-0.564,iPhone 15
+1000000000000000071,2025-06-23 17:31:22,Unboxing my iPhone 15 today!,user_2148,200,16,0.223,iPhone 15
+1000000000000000072,2025-06-28 17:31:22,Thinking of switching to the iPhone 15.,user_3114,170,32,-0.9,iPhone 15
+1000000000000000073,2025-06-08 17:31:22,I just bought the iPhone 15 and it's amazing!,user_7071,209,56,0.072,iPhone 15
+1000000000000000074,2025-06-19 17:31:22,Worst experience with iPhone 15 so far.,user_8727,466,32,-0.462,iPhone 15
+1000000000000000075,2025-06-04 17:31:22,Is anyone else having issues with the iPhone 15?,user_3489,326,30,-0.22,iPhone 15
+1000000000000000076,2025-06-12 17:31:22,Is anyone else having issues with the iPhone 15?,user_5616,96,72,0.728,iPhone 15
+1000000000000000077,2025-06-11 17:31:22,Absolutely loving my new iPhone 15!,user_8639,383,75,0.468,iPhone 15
+1000000000000000078,2025-06-25 17:31:22,I just bought the iPhone 15 and it's amazing!,user_5040,118,43,0.319,iPhone 15
+1000000000000000079,2025-06-25 17:31:22,Best phone ever: iPhone 15,user_4269,298,52,-0.1,iPhone 15
+1000000000000000080,2025-06-08 17:31:22,Thinking of switching to the iPhone 15.,user_5712,193,76,-0.466,iPhone 15
+1000000000000000081,2025-06-07 17:31:22,The iPhone 15 is totally worth the price.,user_8418,477,95,0.797,iPhone 15
+1000000000000000082,2025-06-10 17:31:22,Is anyone else having issues with the iPhone 15?,user_2428,81,43,0.345,iPhone 15
+1000000000000000083,2025-06-15 17:31:22,I just bought the iPhone 15 and it's amazing!,user_9082,416,47,0.217,iPhone 15
+1000000000000000084,2025-06-27 17:31:22,Best phone ever: iPhone 15,user_4055,252,99,0.619,iPhone 15
+1000000000000000085,2025-06-03 17:31:22,Worst experience with iPhone 15 so far.,user_9605,103,66,-0.802,iPhone 15
+1000000000000000086,2025-06-06 17:31:22,The iPhone 15 camera quality is insane.,user_2492,253,92,0.132,iPhone 15
+1000000000000000087,2025-06-01 17:31:22,The iPhone 15 is totally worth the price.,user_7827,430,88,0.687,iPhone 15
+1000000000000000088,2025-06-22 17:31:22,Is anyone else having issues with the iPhone 15?,user_5769,199,27,0.329,iPhone 15
+1000000000000000089,2025-06-14 17:31:22,Absolutely loving my new iPhone 15!,user_3360,222,14,-0.292,iPhone 15
+1000000000000000090,2025-06-16 17:31:22,The iPhone 15 is totally worth the price.,user_5829,88,40,0.044,iPhone 15
+1000000000000000091,2025-06-06 17:31:22,Is anyone else having issues with the iPhone 15?,user_8570,483,8,0.563,iPhone 15
+1000000000000000092,2025-06-14 17:31:22,I just bought the iPhone 15 and it's amazing!,user_4349,75,99,-0.513,iPhone 15
+1000000000000000093,2025-06-27 17:31:22,Unboxing my iPhone 15 today!,user_7507,187,8,0.224,iPhone 15
+1000000000000000094,2025-06-23 17:31:22,Absolutely loving my new iPhone 15!,user_5892,100,40,-0.616,iPhone 15
+1000000000000000095,2025-06-18 17:31:22,The iPhone 15 camera quality is insane.,user_1340,52,85,0.002,iPhone 15
+1000000000000000096,2025-06-03 17:31:22,Not happy with the iPhone 15 battery life.,user_5733,198,63,-0.025,iPhone 15
+1000000000000000097,2025-06-15 17:31:22,The iPhone 15 is totally worth the price.,user_6677,397,36,0.431,iPhone 15
+1000000000000000098,2025-06-26 17:31:22,Absolutely loving my new iPhone 15!,user_2894,243,99,-0.21,iPhone 15
+1000000000000000099,2025-06-08 17:31:22,Worst experience with iPhone 15 so far.,user_2554,144,21,-0.274,iPhone 15

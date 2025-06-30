@@ -1,0 +1,101 @@
+id,date,text,user,likes,retweets,sentiment,product
+1000000000000000000,2025-06-25 17:31:22,Is anyone else having issues with the OnePlus 12?,user_6281,409,96,0.205,OnePlus 12
+1000000000000000001,2025-06-28 17:31:22,The OnePlus 12 camera quality is insane.,user_4506,312,50,0.245,OnePlus 12
+1000000000000000002,2025-06-23 17:31:22,Is anyone else having issues with the OnePlus 12?,user_2679,385,29,-0.114,OnePlus 12
+1000000000000000003,2025-06-19 17:31:22,Absolutely loving my new OnePlus 12!,user_7214,251,27,0.289,OnePlus 12
+1000000000000000004,2025-06-10 17:31:22,Not happy with the OnePlus 12 battery life.,user_5263,360,23,-0.887,OnePlus 12
+1000000000000000005,2025-06-28 17:31:22,Not happy with the OnePlus 12 battery life.,user_9394,169,58,0.118,OnePlus 12
+1000000000000000006,2025-06-04 17:31:22,Is anyone else having issues with the OnePlus 12?,user_1813,159,6,0.521,OnePlus 12
+1000000000000000007,2025-06-01 17:31:22,Unboxing my OnePlus 12 today!,user_4296,53,86,-0.297,OnePlus 12
+1000000000000000008,2025-06-01 17:31:22,Best phone ever: OnePlus 12,user_5802,254,26,0.928,OnePlus 12
+1000000000000000009,2025-06-18 17:31:22,Is anyone else having issues with the OnePlus 12?,user_5845,395,97,-0.801,OnePlus 12
+1000000000000000010,2025-06-20 17:31:22,The OnePlus 12 is totally worth the price.,user_2171,390,64,-0.889,OnePlus 12
+1000000000000000011,2025-06-13 17:31:22,Absolutely loving my new OnePlus 12!,user_8568,495,30,-0.557,OnePlus 12
+1000000000000000012,2025-06-30 17:31:22,Worst experience with OnePlus 12 so far.,user_8855,335,76,0.729,OnePlus 12
+1000000000000000013,2025-06-18 17:31:22,The OnePlus 12 camera quality is insane.,user_4648,212,28,-0.584,OnePlus 12
+1000000000000000014,2025-06-27 17:31:22,Is anyone else having issues with the OnePlus 12?,user_7303,180,41,0.469,OnePlus 12
+1000000000000000015,2025-06-10 17:31:22,Absolutely loving my new OnePlus 12!,user_6157,463,19,-0.875,OnePlus 12
+1000000000000000016,2025-06-17 17:31:22,The OnePlus 12 is totally worth the price.,user_7947,421,78,0.76,OnePlus 12
+1000000000000000017,2025-06-16 17:31:22,Best phone ever: OnePlus 12,user_6141,142,3,0.654,OnePlus 12
+1000000000000000018,2025-06-12 17:31:22,Absolutely loving my new OnePlus 12!,user_5475,28,74,0.568,OnePlus 12
+1000000000000000019,2025-06-15 17:31:22,Not happy with the OnePlus 12 battery life.,user_5593,218,28,-0.38,OnePlus 12
+1000000000000000020,2025-06-26 17:31:22,Thinking of switching to the OnePlus 12.,user_9741,435,97,0.185,OnePlus 12
+1000000000000000021,2025-06-18 17:31:22,Is anyone else having issues with the OnePlus 12?,user_8286,130,46,-0.952,OnePlus 12
+1000000000000000022,2025-06-05 17:31:22,The OnePlus 12 camera quality is insane.,user_9450,162,74,-0.113,OnePlus 12
+1000000000000000023,2025-06-12 17:31:22,Thinking of switching to the OnePlus 12.,user_1772,119,71,0.108,OnePlus 12
+1000000000000000024,2025-06-21 17:31:22,Best phone ever: OnePlus 12,user_5223,302,80,-0.451,OnePlus 12
+1000000000000000025,2025-06-06 17:31:22,Thinking of switching to the OnePlus 12.,user_8133,127,97,0.795,OnePlus 12
+1000000000000000026,2025-06-08 17:31:22,The OnePlus 12 camera quality is insane.,user_1262,392,75,-0.616,OnePlus 12
+1000000000000000027,2025-06-28 17:31:22,Is anyone else having issues with the OnePlus 12?,user_2410,88,19,0.867,OnePlus 12
+1000000000000000028,2025-06-22 17:31:22,The OnePlus 12 is totally worth the price.,user_6343,460,99,-0.751,OnePlus 12
+1000000000000000029,2025-06-28 17:31:22,Is anyone else having issues with the OnePlus 12?,user_9158,325,63,-0.401,OnePlus 12
+1000000000000000030,2025-06-16 17:31:22,Not happy with the OnePlus 12 battery life.,user_4966,79,25,0.524,OnePlus 12
+1000000000000000031,2025-06-17 17:31:22,The OnePlus 12 camera quality is insane.,user_7720,266,39,0.507,OnePlus 12
+1000000000000000032,2025-06-17 17:31:22,Thinking of switching to the OnePlus 12.,user_2866,408,81,-0.177,OnePlus 12
+1000000000000000033,2025-06-22 17:31:22,The OnePlus 12 camera quality is insane.,user_8944,424,96,-0.903,OnePlus 12
+1000000000000000034,2025-06-20 17:31:22,The OnePlus 12 camera quality is insane.,user_2936,302,27,0.544,OnePlus 12
+1000000000000000035,2025-06-15 17:31:22,The OnePlus 12 camera quality is insane.,user_4300,227,14,0.345,OnePlus 12
+1000000000000000036,2025-06-01 17:31:22,Is anyone else having issues with the OnePlus 12?,user_5474,403,59,-0.929,OnePlus 12
+1000000000000000037,2025-06-04 17:31:22,I just bought the OnePlus 12 and it's amazing!,user_1103,227,85,-0.5,OnePlus 12
+1000000000000000038,2025-06-24 17:31:22,Unboxing my OnePlus 12 today!,user_3884,481,20,-0.828,OnePlus 12
+1000000000000000039,2025-06-02 17:31:22,The OnePlus 12 is totally worth the price.,user_9007,60,18,-0.309,OnePlus 12
+1000000000000000040,2025-06-08 17:31:22,I just bought the OnePlus 12 and it's amazing!,user_2969,164,82,0.229,OnePlus 12
+1000000000000000041,2025-06-27 17:31:22,Not happy with the OnePlus 12 battery life.,user_5348,488,72,-0.713,OnePlus 12
+1000000000000000042,2025-06-08 17:31:22,Unboxing my OnePlus 12 today!,user_7301,245,52,0.72,OnePlus 12
+1000000000000000043,2025-06-27 17:31:22,The OnePlus 12 camera quality is insane.,user_9246,282,43,-0.862,OnePlus 12
+1000000000000000044,2025-06-04 17:31:22,Not happy with the OnePlus 12 battery life.,user_7768,241,87,-0.783,OnePlus 12
+1000000000000000045,2025-06-29 17:31:22,Is anyone else having issues with the OnePlus 12?,user_8796,462,10,0.188,OnePlus 12
+1000000000000000046,2025-06-28 17:31:22,The OnePlus 12 camera quality is insane.,user_6288,137,98,-0.336,OnePlus 12
+1000000000000000047,2025-06-15 17:31:22,Absolutely loving my new OnePlus 12!,user_6124,325,3,0.785,OnePlus 12
+1000000000000000048,2025-06-16 17:31:22,The OnePlus 12 camera quality is insane.,user_1417,221,81,0.878,OnePlus 12
+1000000000000000049,2025-06-22 17:31:22,Absolutely loving my new OnePlus 12!,user_2809,114,28,-0.57,OnePlus 12
+1000000000000000050,2025-06-08 17:31:22,Thinking of switching to the OnePlus 12.,user_7914,214,2,0.361,OnePlus 12
+1000000000000000051,2025-06-03 17:31:22,Unboxing my OnePlus 12 today!,user_9799,443,18,0.984,OnePlus 12
+1000000000000000052,2025-06-28 17:31:22,Unboxing my OnePlus 12 today!,user_7942,35,27,0.77,OnePlus 12
+1000000000000000053,2025-06-07 17:31:22,The OnePlus 12 camera quality is insane.,user_4031,411,65,-0.906,OnePlus 12
+1000000000000000054,2025-06-14 17:31:22,Absolutely loving my new OnePlus 12!,user_8195,405,1,0.824,OnePlus 12
+1000000000000000055,2025-06-15 17:31:22,The OnePlus 12 camera quality is insane.,user_5655,251,13,0.148,OnePlus 12
+1000000000000000056,2025-06-20 17:31:22,Not happy with the OnePlus 12 battery life.,user_3200,499,5,0.972,OnePlus 12
+1000000000000000057,2025-06-12 17:31:22,The OnePlus 12 is totally worth the price.,user_1820,161,28,0.829,OnePlus 12
+1000000000000000058,2025-06-03 17:31:22,Worst experience with OnePlus 12 so far.,user_4009,491,15,0.852,OnePlus 12
+1000000000000000059,2025-06-15 17:31:22,Not happy with the OnePlus 12 battery life.,user_2083,433,20,0.722,OnePlus 12
+1000000000000000060,2025-06-21 17:31:22,The OnePlus 12 camera quality is insane.,user_8212,198,3,0.97,OnePlus 12
+1000000000000000061,2025-06-28 17:31:22,The OnePlus 12 camera quality is insane.,user_4363,126,89,-0.661,OnePlus 12
+1000000000000000062,2025-06-09 17:31:22,Is anyone else having issues with the OnePlus 12?,user_5280,213,3,-0.596,OnePlus 12
+1000000000000000063,2025-06-23 17:31:22,Thinking of switching to the OnePlus 12.,user_5337,90,31,-0.638,OnePlus 12
+1000000000000000064,2025-06-28 17:31:22,Is anyone else having issues with the OnePlus 12?,user_4691,478,68,0.88,OnePlus 12
+1000000000000000065,2025-06-29 17:31:22,Thinking of switching to the OnePlus 12.,user_5715,53,76,0.619,OnePlus 12
+1000000000000000066,2025-06-23 17:31:22,The OnePlus 12 is totally worth the price.,user_2362,97,39,0.445,OnePlus 12
+1000000000000000067,2025-06-18 17:31:22,The OnePlus 12 camera quality is insane.,user_4293,158,59,0.704,OnePlus 12
+1000000000000000068,2025-06-10 17:31:22,The OnePlus 12 camera quality is insane.,user_3135,299,55,-0.627,OnePlus 12
+1000000000000000069,2025-06-11 17:31:22,I just bought the OnePlus 12 and it's amazing!,user_8052,488,41,0.45,OnePlus 12
+1000000000000000070,2025-06-04 17:31:22,Absolutely loving my new OnePlus 12!,user_1763,328,38,-0.727,OnePlus 12
+1000000000000000071,2025-06-04 17:31:22,Best phone ever: OnePlus 12,user_7926,492,99,0.474,OnePlus 12
+1000000000000000072,2025-06-20 17:31:22,Absolutely loving my new OnePlus 12!,user_4766,83,100,0.458,OnePlus 12
+1000000000000000073,2025-06-14 17:31:22,Not happy with the OnePlus 12 battery life.,user_8972,465,29,0.442,OnePlus 12
+1000000000000000074,2025-06-19 17:31:22,The OnePlus 12 is totally worth the price.,user_4503,353,55,-0.99,OnePlus 12
+1000000000000000075,2025-06-13 17:31:22,The OnePlus 12 is totally worth the price.,user_9763,265,17,-0.24,OnePlus 12
+1000000000000000076,2025-06-15 17:31:22,Best phone ever: OnePlus 12,user_4327,479,80,-0.553,OnePlus 12
+1000000000000000077,2025-06-09 17:31:22,Thinking of switching to the OnePlus 12.,user_4782,200,25,-0.231,OnePlus 12
+1000000000000000078,2025-06-19 17:31:22,Not happy with the OnePlus 12 battery life.,user_7265,435,100,-0.961,OnePlus 12
+1000000000000000079,2025-06-30 17:31:22,Absolutely loving my new OnePlus 12!,user_9811,120,59,-0.717,OnePlus 12
+1000000000000000080,2025-06-10 17:31:22,Absolutely loving my new OnePlus 12!,user_6381,218,72,0.309,OnePlus 12
+1000000000000000081,2025-06-14 17:31:22,Not happy with the OnePlus 12 battery life.,user_5960,282,66,0.365,OnePlus 12
+1000000000000000082,2025-06-20 17:31:22,The OnePlus 12 is totally worth the price.,user_2318,344,37,-0.128,OnePlus 12
+1000000000000000083,2025-06-06 17:31:22,Not happy with the OnePlus 12 battery life.,user_9082,64,83,-0.458,OnePlus 12
+1000000000000000084,2025-06-15 17:31:22,Thinking of switching to the OnePlus 12.,user_8792,168,9,-0.574,OnePlus 12
+1000000000000000085,2025-06-26 17:31:22,I just bought the OnePlus 12 and it's amazing!,user_9224,321,5,-0.778,OnePlus 12
+1000000000000000086,2025-06-10 17:31:22,Unboxing my OnePlus 12 today!,user_6676,274,61,0.386,OnePlus 12
+1000000000000000087,2025-06-09 17:31:22,Worst experience with OnePlus 12 so far.,user_4480,331,40,-0.55,OnePlus 12
+1000000000000000088,2025-06-02 17:31:22,Not happy with the OnePlus 12 battery life.,user_2686,161,52,0.068,OnePlus 12
+1000000000000000089,2025-06-21 17:31:22,Not happy with the OnePlus 12 battery life.,user_8699,482,50,-0.467,OnePlus 12
+1000000000000000090,2025-06-21 17:31:22,The OnePlus 12 is totally worth the price.,user_2480,341,63,-0.167,OnePlus 12
+1000000000000000091,2025-06-10 17:31:22,Unboxing my OnePlus 12 today!,user_9736,59,52,0.236,OnePlus 12
+1000000000000000092,2025-06-19 17:31:22,Not happy with the OnePlus 12 battery life.,user_9789,474,45,0.293,OnePlus 12
+1000000000000000093,2025-06-29 17:31:22,Not happy with the OnePlus 12 battery life.,user_4738,250,84,0.089,OnePlus 12
+1000000000000000094,2025-06-11 17:31:22,Not happy with the OnePlus 12 battery life.,user_9887,285,28,0.377,OnePlus 12
+1000000000000000095,2025-06-11 17:31:22,Thinking of switching to the OnePlus 12.,user_3266,227,56,0.101,OnePlus 12
+1000000000000000096,2025-06-30 17:31:22,Absolutely loving my new OnePlus 12!,user_1318,212,25,0.87,OnePlus 12
+1000000000000000097,2025-06-03 17:31:22,The OnePlus 12 camera quality is insane.,user_3396,235,41,-0.862,OnePlus 12
+1000000000000000098,2025-06-11 17:31:22,The OnePlus 12 camera quality is insane.,user_4099,477,19,-0.612,OnePlus 12
+1000000000000000099,2025-06-01 17:31:22,The OnePlus 12 is totally worth the price.,user_5708,438,11,-0.048,OnePlus 12
