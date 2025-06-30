@@ -34,29 +34,6 @@ Data Collection → Processing → Analysis → Visualization → Storage
 4. **Visualization Layer** (`charts.py`, `app.py`)
 5. **Orchestration Layer** (`pipeline.py`)
 
-
-## 🚀 Installation & Setup
-
-### 1. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-# Edit .env file with your Twitter Bearer Token
-BEARER_TOKEN=your_actual_bearer_token_here
-```
-
-### 2. Initialize Project
-```bash
-# Create directories and setup database
-python utility_scripts/simple_fix.py
-```
-
-### 3. Launch Application
-```bash
-streamlit run src/app.py
-```
-
 ## 📊 Usage Examples
 
 ### Basic Pipeline Execution
