@@ -2,6 +2,12 @@
 
 A comprehensive sentiment analysis platform for monitoring social media reactions to product launches. This project demonstrates end-to-end data engineering, natural language processing, and business intelligence capabilities through an interactive web dashboard.
 
+![Dashboard Screenshot](https://github.com/SKG24/Product_Launch_Analyzer/blob/main/dashboard_1.png)
+
+![Dashboard Screenshot](https://github.com/SKG24/Product_Launch_Analyzer/blob/main/dashboard_2.png)
+
+![Dashboard Screenshot](https://github.com/SKG24/Product_Launch_Analyzer/blob/main/dashboard_3.png)
+
 ## 🎯 Project Overview
 
 Product Launch Analyzer helps companies understand customer sentiment around new product releases by:
